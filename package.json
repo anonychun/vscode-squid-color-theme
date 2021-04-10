@@ -1,0 +1,35 @@
+{
+	"name": "vscode-squid-color-theme",
+	"displayName": "Squid Theme",
+	"description": "Squid Color Theme",
+	"version": "0.0.1",
+	"publisher": "anonychun",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/anonychun/vscode-squid-color-theme"
+	},
+	"keywords": [
+		"squid",
+		"squid theme",
+		"anonychun",
+		"theme",
+		"dark theme",
+		"minimalist",
+		"minimalist theme"
+	],
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Squid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/squid-color-theme.json"
+			}
+		]
+	}
+}
