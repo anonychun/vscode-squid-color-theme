@@ -3,7 +3,7 @@
 	"displayName": "Squid Theme",
 	"description": "A simple, dark, minimalist, clean VS Code theme that focuses on less distraction",
 	"icon": "assets/images/icon.png",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "anonychun",
 	"repository": {
 		"type": "git",
